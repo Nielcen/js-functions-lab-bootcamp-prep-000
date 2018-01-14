@@ -8,7 +8,7 @@ function happyHolidaysTo(you) {
 function happyHolidayTo(IndependenceDay, you) {
   return `Happy ${IndependenceDay}, ${you}!`
 }
-var x = 20
-function holidayCountdown(x, mothersDay) {
+var number = 20
+function holidayCountdown(number, mothersDay) {
 
 }
